@@ -32,3 +32,5 @@ to detect the liveness of a face in a video by analyzing blink and mouth movemen
 It creates instances of the other classes, initializes flag variables, and has functions to detect, 
 record and analyze faces using multiprocessing and openCV library. At the end, it creates an instance of the class 
 and calls its functions in a specific order.
+
+NOTE:For this modular code to work install TensorRT and CUDA as well
